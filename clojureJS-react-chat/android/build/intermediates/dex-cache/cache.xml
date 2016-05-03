@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.24.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d12931c7b260dda5ba99b8c89cd6ec2a104abed3">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-1f141613ae0d7aeafce301f6b3ae756f03805ed4.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-02c55a6624c33cb586bedea258a831ebd52e1550.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-79d0bc7d2931968f39a1d5abed6662e30a93ca7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-43abb49ee512a14fb72978d4cc6f30dc0efb8a06.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\SyngIm\react-native-i18n\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08aefb1f1f7b14d2254d4bb28eba6311013bb337">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-f8750d4f17543810c00d4f0421f3530315f35589.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\org.nanohttpd\nanohttpd\2.2.0\73a02117620b6cc7683a1ed6ae24c2f36e2a715\nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\nanohttpd-2.2.0-1174885dffa437f3197b3043453cb91254b337da.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-dc20dc9bea86fcf342ed2f4416760984921fd18f.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\SyngIm\realm\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5b24eddd536a105ab37f4556ce5c89d9f01ad76">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-4206b2fa998adde4d40c0b27e3ce5e1db8a398aa.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-47d3731803ca08c3605c2cd0faf181c3b5f1f108.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-c74d15c6ad5898f813defe7969ab3ee5c0b95141.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\SyngIm\randombytes\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e2bc1d0589f642beda1cb5ae7e1d7aa78be65937">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-34031de107fdbab8d724fd1e965644145ffc24b7.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-ba3b3b83daee9fc4ed30a8d3b50e80721fec9a34.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-56b30c8e493837b4bd1994c098ecc60fa42ac0d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-c7e10f3bfd39360c4cfdd40aa645fa1e97d54147.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\status-im\android-geth\1.4.0-201604110816-a97a114\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a40c45d7512c1c0dd5b8cb8e602ea12720c5bcf2">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-037a00f4aa668beb19e8224ce0395ec03445d165.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\SyngIm\react-native-contacts\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8c0f963d0b23face73d177a638443dbd867117c">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-de86be6b432d5e9bed7bbcf1e5a92dd588b89e75.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-a5d794b9eb29dea81cf86fa93397ecd4041db002.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-1d77ba23977ac04e8d720d63d8ddeec8c80a63f3.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-65c73e2861a790cba4841c29c8d1f9551c00e462.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-1205407eb8f8c9755171bf8c773e59995bab4625.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0-dc70268e4ea084e4fc1473611f540bf50df50214.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.24.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="50bae83a0680cb90776a4d36bb6aa4911a84fd8b">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-ea8caace397be674cc33fe46965482cfaf071be5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MC\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-b4c0fedcf4fd43ee25b3548e09732eb915ba2c94.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\SyngIm\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ae2ff8617400b77c89c69dcf1585ed71fb0d678">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-075f244c7bfd56d98dcec6f9fd34e7a129a27941.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-69778fca088bfb02780d58d54a97fd8a6f101b78.jar" />
+    </item>
+    <item
+        jar="D:\React\chatapp\status-react\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\React\chatapp\status-react\android\app\build\intermediates\pre-dexed\debug\classes-f389c126c6d260a13c116e881eb2083abbc9b293.jar" />
+    </item>
+
+</items>
