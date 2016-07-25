@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "528328975791",
+    "project_id": "jourley-2cf86"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528328975791:android:eaeaa39816d30a7f",
+        "android_client_info": {
+          "package_name": "com.sociallearningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgecWh-knapESKjh_nNfnF7l0x5t3-zI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
