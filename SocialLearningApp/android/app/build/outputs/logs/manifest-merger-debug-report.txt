@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:21:5-67
+MERGED from [SocialLearningApp:react-native-code-push:unspecified] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\SocialLearningApp\react-native-code-push\unspecified\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:4:22-64
+permission#com.sociallearningapp.permission.C2D_MESSAGE
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:5:5-6:55
+	android:protectionLevel
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:6:17-52
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:5:17-76
+uses-permission#com.sociallearningapp.permission.C2D_MESSAGE
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:7:22-81
+application
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:10:5-48:19
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [SocialLearningApp:react-native-code-push:unspecified] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\SocialLearningApp\react-native-code-push\unspecified\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:12:7-39
+	android:allowBackup
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:11:7-33
+	android:icon
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:13:7-41
+	android:theme
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.sociallearningapp.MainActivity
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:15:7-23:18
+	android:label
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:configChanges
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:24:7-84
+MERGED from [SocialLearningApp:react-native-code-push:unspecified] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\SocialLearningApp\react-native-code-push\unspecified\AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:24:17-81
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:exported
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:27:17-40
+	android:permission
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:26:17-70
+intent-filter#com.example.gcm+com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:29:13-32:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:30:25-78
+category#com.example.gcm
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:31:17-60
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:31:27-57
+service#com.example.MyGcmListenerService
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:34:9-40:19
+	android:exported
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:36:17-41
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:35:17-64
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:37:13-39:29
+service#com.example.MyInstanceIDListenerService
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:41:9-47:19
+	android:exported
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:43:17-41
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:42:17-71
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:44:13-46:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:45:17-80
+	android:name
+		ADDED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:45:25-77
+uses-sdk
+INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [SocialLearningApp:react-native-code-push:unspecified] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\SocialLearningApp\react-native-code-push\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [SocialLearningApp:react-native-vector-icons:unspecified] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\SocialLearningApp\react-native-vector-icons\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:28:7-31:37
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:33:7-39:18
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:41:7-44:37
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:42:11-82
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [com.facebook.react:react-native:0.27.2] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.27.2\AndroidManifest.xml:11:22-75
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:1:1-52:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:1:1-52:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\React\SocialLearningApp\android\app\src\main\AndroidManifest.xml:1:1-52:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.3.0] D:\React\SocialLearningApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\AndroidManifest.xml:21:22-79
